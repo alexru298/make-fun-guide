@@ -180,6 +180,8 @@ Each bounty page lists its phases. Results usually land days after entries close
 - [Make money with AI agents](https://make.fun/guide/make-money-with-ai-agents)
 - [Discord](https://discord.gg/makefun) and [@makefunai on X](https://x.com/makefunai) — to ask questions and meet other builders
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1B129279I)
+
 ---
 
 <sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/e1yxksqx · code `e1yxksqx`</sub>
